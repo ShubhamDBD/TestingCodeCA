@@ -1,0 +1,20 @@
+.............................PAY SLIP.................................
+StaffID: 123457
+Staff Name: Mary Smith
+PPSN: 1234589AJ
+Date: 04/07/2021
+            Hour Rate Total 
+Regular:    0    20   0
+Overtime :  40   25   1000
+
+
+Grosspay :   1000
+                     Rate     Total
+Standard Band  :  900   20%   180.0
+Higher Rate    :  100   40%   40.0
+
+
+Total Deductions: 220
+Tax Credit:       140
+Net Deductions:   80
+Net Pay:          920
